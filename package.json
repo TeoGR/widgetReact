@@ -1,5 +1,5 @@
 {
-  "name": "@TeoGR/widgetReact",
+  "name": "@TeoGR/widgetreact",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/TeoGR"
   },
